@@ -40,7 +40,7 @@ Enable Containers Feature with the following command:
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName containers –All
 ```
-Afterwards, we can install (Docker Desktop from the website)[https://www.docker.com/products/docker-desktop/]:
+Afterwards, we can install [Docker Desktop from the website](https://www.docker.com/products/docker-desktop/):
 ![Docker](https://github.com/nicomcd/Docker/assets/35404943/90228874-c9dd-49ae-9194-561d081b8aed)
 Once it is finished installing you can leave the setting ticked for WSL 2 and follow through the installation prompts. Then you can make a Docker account; I made one as a Student and follow some of the tutorials or utilize the same course I'm using.
 
