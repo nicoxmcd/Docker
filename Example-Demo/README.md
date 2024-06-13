@@ -1,10 +1,10 @@
-# Example-Demo
+# Demo
 
 I'm using VSCode for all of these examples and their built-in terminal to use the Docker commands.
 
 To build the docker container navigate to the folder containing `Dockerfile` and run the build command:
 ```
-cd Example-Demo
+cd Demo
 docker build .
 ```
 ![build output](https://github.com/nicomcd/Docker/assets/35404943/17bfa122-338d-4a68-8480-3aaa8f2ffe38)
