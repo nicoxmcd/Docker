@@ -1,10 +1,8 @@
-# [Docker & Kubernetes: The Practical Guide [2024 Edition]](https://www.udemy.com/share/103IaC3@5G0-SQ_L9ghBhMFLdnkrUZJAl7q2eUVI4A234q8Y8LLcBmRGKWcDhkGKGDXmx6wVEA==/)
+# [Docker & Kubernetes](https://www.udemy.com/share/103IaC3@5G0-SQ_L9ghBhMFLdnkrUZJAl7q2eUVI4A234q8Y8LLcBmRGKWcDhkGKGDXmx6wVEA==/)
 
 I'm currently utilizing this course from Udemy created by Maximilian Schwarzmüller, here is the following description for the course if anyone would also like to take it! 
 
 ## What I'm learning
-- Learn what Docker and Kubernetes are and why you might want to use them
-- Learn how to install and use Docker on any system (macOS, Windows, Linux)
 - Learn how to create and use Images & Containers with Docker
 - Understand complex topics like managing and persisting data with Volumes
 - Learn about Container Networking with Docker Networks and DNS Service Discovery
