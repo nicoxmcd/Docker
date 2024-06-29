@@ -23,7 +23,7 @@ Afterwards, we can install [Docker Desktop from the website](https://www.docker.
 ![Docker](https://github.com/nicomcd/Docker/assets/35404943/90228874-c9dd-49ae-9194-561d081b8aed)
 Once it is finished installing you can leave the setting ticked for WSL 2 and follow through the installation prompts. Then you can make a Docker account; I made one as a Student and follow some of the tutorials or utilize the same course I'm using.
 
-#[Docker Hub](https://hub.docker.com/search?image_filter=official)
+# [Docker Hub](https://hub.docker.com/search?image_filter=official)
 
 ## Running Pre-Built Images From Docker Hub
 You can find Docker official images from Docker Hub. You can run a base image, which holds all the logic and code that the container needs, as a container by doing this command and replacing python with whatever image you want to use from Docker Hub:
