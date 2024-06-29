@@ -9,7 +9,7 @@ I'm currently utilizing this course from Udemy created by Maximilian Schwarzmül
 - Learn how to deploy Docker applications - manually, with managed services or with Kubernetes
 
 ## Setup Docker Desktop for Windows 
-To check which version of Windows you are running you can open `Settings >> System >> About >> Windows Specifications`. Since I am utilizing Windows 11 Pro, then I will only need to follow a few steps to install Docker Desktop. Docker is not natively supported on Windows which is why there are some steps you need to follow before installation. If you are running an earlier version of Windows and or (the version is Windows Home there are other instructions you will need to follow)[https://learn.microsoft.com/en-us/windows/wsl/install].
+To check which version of Windows you are running you can open `Settings >> System >> About >> Windows Specifications`. Since I am utilizing Windows 11 Pro, then I will only need to follow a few steps to install Docker Desktop. Docker is not natively supported on Windows which is why there are some steps you need to follow before installation. If you are running an earlier version of Windows and or [the version is Windows Home there are other instructions you will need to follow](https://learn.microsoft.com/en-us/windows/wsl/install).
 ![My specifications for Windows](https://github.com/nicomcd/Docker/assets/35404943/ebed0b4e-aaa9-45df-8fc6-48286c1ec9b9)
 Then I can open `Windows Powershell` and `Run as Adminstrator` and enable Hyper-V by running the following command:
 ```
